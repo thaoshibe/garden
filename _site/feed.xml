@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/garden/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/garden/" rel="alternate" type="text/html" /><updated>2022-05-19T17:56:59+07:00</updated><id>http://localhost:4000/garden/feed.xml</id><title type="html">Thao’s garden 🌿🌷🌻🌹🌿</title><subtitle>Nah gardening anymore? Visit [my homepage 🏠](https://thaoshibe.github.io) instead!</subtitle><entry><title type="html">myphd</title><link href="http://localhost:4000/garden/2022/05/" rel="alternate" type="text/html" title="myphd" /><published>2022-05-19T15:10:11+07:00</published><updated>2022-05-19T15:10:11+07:00</updated><id>http://localhost:4000/garden/2022/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/garden/2022/05/">&lt;!-- ### ┍━━━━━━━ ⋆⋅☆⋅⋆ 𝐦𝐲𝐩𝐡𝐝 ⋆⋅☆⋅⋆ ━━━━━━━┑ --&gt;
+
+&lt;p&gt;Today, the 27th of April 2022, marks my very first day on my PhD journey. I am &lt;em&gt;scared, excited, and grateful&lt;/em&gt;, all at the same time (.❛ ᴗ ❛.).
+I am scared of adversity ahead. Excited about incoming projects and discussions. Grateful for this short time on Earth.
+Nevertheless, it’s still a casual day, I went to work at 8:45AM, had lunch around 12:30PM. My dog pee inside the house, and my cat was sick.&lt;/p&gt;
+
+&lt;p&gt;At work, I decided to jot down my PhD bucket list here. Both academic and non-academic related. It’s gonna be about my 5-beautiful-year as a Badger. Oh, Wisconsin!&lt;/p&gt;
+
+&lt;h5 id=&quot;--bucket-list--&quot;&gt;───── ❝ bucket list ❞ ─────&lt;/h5&gt;
+
+&lt;p&gt;&lt;strong&gt;Research&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Submit to ICCV’23&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Submit to SIGGRAPH&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Study&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Papers Summary Project&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Technical Blog&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Activities&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Southeast Asian Women in CS webpage&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;-𝕟𝕖𝕨𝕤--&quot;&gt;📰 𝕟𝕖𝕨𝕤  📰&lt;/h3&gt;
+
+&lt;h4 id=&quot;2022&quot;&gt;2022&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;27 April: Kick start of myPhD project, 3-pass-papers!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- ┕━━━━━━━━ ⋆⋅☆⋅⋆ the end ⋆⋅☆⋅⋆ ━━━━━━━━┙ --&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"></summary></entry></feed>
