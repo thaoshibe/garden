@@ -28,7 +28,7 @@ twitter_username: thaoshibe
 github_username:  thaoshibe
 linkedin_username: thaoshibe
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
